@@ -4,7 +4,6 @@
 */
 public class Exercise4 {
     public static void main(String[] args) {
-        int[] arr = {4, 2, 1, 3, 1};
         int[] arr2 = {4, 2, 2, 3, 1};
 
 
